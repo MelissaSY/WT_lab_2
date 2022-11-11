@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Appliances>
+    <Kettle price="12" volume="1.7" weight="600" height="30" color="white"/>
+    <Kettle price="18" volume="1.8" weight="700" height="30" color="black"/>
+    <Kettle price="20" volume="2.0" weight="800" height="40" color="red"/>
+
+    <Oven price="20" powerConsumption="1000" weight="10" capacity="32" depth="60" height="45.5" width="59.5"/>
+    <Oven price="25" powerConsumption="1500" weight="12" capacity="33" depth="60" height="45" width="68"/>
+    <Oven price="30" powerConsumption="2000" weight="11" capacity="33" depth="60" height="40" width="70"/>
+
+    <Laptop price="60" batteryCapacity="1" os="Windows" memoryRom="4000" systemMemory="1000" cpu="1.2" displayInches="18"/>
+    <Laptop price="70" batteryCapacity="1.5" os="Linux" memoryRom="8000" systemMemory="1000" cpu="2.2" displayInches="22"/>
+    <Laptop price="90" batteryCapacity="3" os="Windows" memoryRom="8000" systemMemory="1500" cpu="3.2" displayInches="22"/>
+
+    <Refrigerator price="40" powerConsumption="100" weight="20" freezerCapacity="15" overallCapacity="300" height="200" width="70"/>
+    <Refrigerator price="50" powerConsumption="200" weight="30" freezerCapacity="15" overallCapacity="300" height="180" width="80"/>
+    <Refrigerator price="55" powerConsumption="150" weight="35" freezerCapacity="15" overallCapacity="350.5" height="180" width="80"/>
+
+    <TabletPC price="10" batteryCapacity="3" displayInches="14" memoryRom="8000" flashMemoryCapacity="2" color="blue"/>
+    <TabletPC price="60" batteryCapacity="4" displayInches="15" memoryRom="8000" flashMemoryCapacity="6" color="red"/>
+    <TabletPC price="70" batteryCapacity="5" displayInches="16" memoryRom="16000" flashMemoryCapacity="8" color="green"/>
+</Appliances>
