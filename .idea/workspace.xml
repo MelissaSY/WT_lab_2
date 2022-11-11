@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71f3ce7-fb32-4e22-b3ca-3b65c2fcc600" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bluecatcode_junit_4_12_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WT_lab_2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="f71f3ce7-fb32-4e22-b3ca-3b65c2fcc600" name="Changes" comment="some work done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,8 +71,16 @@
       <workItem from="1668092545346" duration="5308000" />
       <workItem from="1668106452321" duration="14813000" />
       <workItem from="1668121416427" duration="3284000" />
-      <workItem from="1668124882668" duration="5941000" />
+      <workItem from="1668124882668" duration="6273000" />
     </task>
+    <task id="LOCAL-00001" summary="some work done">
+      <created>1668131198009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668131198009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some work done" />
+    <option name="LAST_COMMIT_MESSAGE" value="some work done" />
   </component>
 </project>
